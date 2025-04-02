@@ -18,11 +18,11 @@ Other Tools: Excel (Power Query), DAX, Jupyter Notebook, Git/GitHub
 
 Data tells a story, and my projects reflect that philosophy. Here are some highlights:
 
-### 📌 International E-Commerce Power BI Dashboard
+### 📌 [International E-Commerce Power BI Dashboard](https://github.com/mathias-wb/power-bi-report)
 
 📈 This project demonstrates data analysis and visualization skills, focusing on transforming data into actionable insights for decision-makers. It includes designing a data model, extracting and transforming data, and creating a multi-page report that highlights key business areas such as customer insights, product performance, and store analysis. The report features a business summary, region-based customer performance, and a map of retail outlet metrics.
 
-### 📌 Popular Stocks Analysis
+### 📌 [Popular Stocks Analysis](https://github.com/mathias-wb/stock-market-analysis/blob/master/analysis.ipynb)
 
 📊  A comprehensive approach to analyzing financial data using Python. It includes importing stock data, performing exploratory data analysis (EDA), and visualizing trends and correlations. The notebook focuses on key financial indicators and how they can be used to assess stock performance, leveraging libraries like Pandas, Matplotlib, and Seaborn. The analysis is designed to offer insights into stock patterns and facilitate informed decision-making for traders or analysts.
 
