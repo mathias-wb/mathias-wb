@@ -20,7 +20,7 @@ Data tells a story, and my projects reflect that philosophy. Here are some highl
 
 ### 📌 International E-Commerce Power BI Dashboard
 
-📈 I transformed data into actionable insights for better decision-making by using Microsoft Power BI to design a comprehensive quarterly report.
+📈 This project demonstrates data analysis and visualization skills, focusing on transforming data into actionable insights for decision-makers. It includes designing a data model, extracting and transforming data, and creating a multi-page report that highlights key business areas such as customer insights, product performance, and store analysis. The report features a business summary, region-based customer performance, and a map of retail outlet metrics.
 
 ### 📌 Popular Stocks Analysis
 
