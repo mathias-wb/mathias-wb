@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mathias
 
 ## 💡 About Me
-I work with **Python**, **SQL**, and **Power BI** to dive deep into datasets, identify trends, and support data-driven decision-making. Currently, I’m enrolled in a DataCamp Data Analysis Track by curated by Newto and am preparing for my **PL-300**, and **CompTIA Data+** certifications.
+I work with **Python**, **SQL**, and **Power BI** to dive deep into datasets, identify trends, and support data-driven decision-making. Currently, I’m enrolled in a DataCamp Data Analysis Track curated by Newto and am preparing for my **PL-300**, and **CompTIA Data+** certifications.
 
 ## 🔧 Skills & Tools
 
@@ -39,5 +39,6 @@ An end-to-end financial data analysis project using Python.
 ## 📫 Connect With Me
 - 📧 Email: [mathias.wb@outlook.com](mailto:mathias.wb@outlook.com)
 - 💼 LinkedIn: [https://linkedin.com/in/mathias-wb](https://linkedin.com/in/mathias-wb)
+
 
 
