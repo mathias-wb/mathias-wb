@@ -8,11 +8,11 @@ I work with **Python**, **SQL**, and **Power BI** to dive deep into datasets, id
 
 ## 🔧 Skills & Tools
 
-**Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL (PostgreSQL, MySQL)
+**Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL (PostgreSQL, MySQL), DAX
 
-**Data Visualization:** Power BI, Tableau, Matplotlib
+**Data Visualization:** Power BI, Tableau
 
-**Other Tools:** Excel (Power Query), DAX, Jupyter Notebook, Git/GitHub
+**Other Tools:** Excel, Jupyter Notebook, Git/GitHub, Docker
 
 ## 📊 Pinned Projects
 
@@ -42,3 +42,4 @@ An end-to-end financial data analysis project using Python.
 ## 📫 Connect With Me
 - 📧 Email: [mathias.wb@outlook.com](mailto:mathias.wb@outlook.com)
 - 💼 LinkedIn: [https://linkedin.com/in/mathias-wb](https://linkedin.com/in/mathias-wb)
+
